@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AS78L05RTR-G1
+D 100mA 5V Linear Voltage Regulator SOT89 Diodes Inc AS78L05RTR-G1, Single Linear Voltage Regulator, 100mA 5 V, +/-5%, 3-Pin SOT-89
+K
+F https://www.diodes.com//assets/Datasheets/AS78Lxx.pdf
+$ENDCMP
+#
+#End Doc Library

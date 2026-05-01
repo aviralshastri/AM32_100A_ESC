@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPH1R204PB,L1Q
+D MOSFET Pb-F POWER MOSFET TRANSISTOR SOP8-ADV PD=132W F=1MHZ
+K
+F http://toshiba.semicon-storage.com/info/docget.jsp?did=57107&prodName=TPH1R204PB
+$ENDCMP
+#
+#End Doc Library

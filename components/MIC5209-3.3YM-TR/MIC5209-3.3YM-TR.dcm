@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC5209-3.3YM-TR
+D LDO Regulator Pos 3.3V 0.5A 8-Pin SOIC N T/R
+K
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579634
+$ENDCMP
+#
+#End Doc Library
