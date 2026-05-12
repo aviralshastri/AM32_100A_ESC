@@ -7,6 +7,5 @@
 	(lib (name "SML-D12U1WT86") (type "KiCad") (uri "${KIPRJMOD}/components/SML-D12U1WT86") (options "") (descr ""))
 	(lib (name "TPH1R204PB,L1Q") (type "KiCad") (uri "${KIPRJMOD}/components/TPH1R204PB,L1Q") (options "") (descr ""))
 	(lib (name "graphics") (type "KiCad") (uri "${KIPRJMOD}/components/graphics.pretty") (options "") (descr ""))
-	(lib (name "graphics2") (type "KiCad") (uri "${KIPRJMOD}/components/graphics.pretty") (options "") (descr ""))
 	(lib (name "custom_components") (type "KiCad") (uri "${KIPRJMOD}/components/custom_components.pretty") (options "") (descr ""))
 )
